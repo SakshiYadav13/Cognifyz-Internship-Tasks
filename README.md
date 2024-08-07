@@ -1,5 +1,7 @@
 ## Investment Dynamics Overview
 
+##### This report provides a thorough analysis of investment patterns based on the data collected from 40 investors. It includes demographic insights, investment choices, source preferences, duration and frequency of investments, return expectations, and objectives. The aim is to present a holistic view of current investment trends and offer actionable recommendations for future strategies.
+
 ![Screenshot 2024-08-07 140024](https://github.com/user-attachments/assets/1295c43f-0a5b-4967-a446-d279b4dc32bb)
 
 ![Screenshot 2024-08-07 140229](https://github.com/user-attachments/assets/9a11168c-b812-47f1-b3da-e971b15ee2c7)
