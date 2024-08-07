@@ -1,5 +1,8 @@
 ## Investment Dynamics Overview
 
+#### For the live dashboard and complete report, follow below link:
+https://mavenanalytics.io/project/18103
+
 ##### This report provides a thorough analysis of investment patterns based on the data collected from 40 investors. It includes demographic insights, investment choices, source preferences, duration and frequency of investments, return expectations, and objectives. The aim is to present a holistic view of current investment trends and offer actionable recommendations for future strategies.
 
 ![Screenshot 2024-08-07 140024](https://github.com/user-attachments/assets/1295c43f-0a5b-4967-a446-d279b4dc32bb)
@@ -33,7 +36,8 @@
 
 #### TASK 6
 
-![image](https://github.com/user-attachments/assets/7a22de6a-c6f8-4bc1-b3f7-2d86ba92cf75)
+![Screenshot 2024-08-07 213017](https://github.com/user-attachments/assets/7b14900e-ac8e-4097-82ba-93d791c257c6)
+
 
 
 ### Key Insights:
